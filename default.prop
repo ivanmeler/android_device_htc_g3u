@@ -1,0 +1,4 @@
+#
+# Additional build proporties for g3u
+#
+ro.sf.lcd_density = 240
